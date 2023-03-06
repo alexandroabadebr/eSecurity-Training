@@ -24,3 +24,5 @@ As grandes e pequenas organizações possuem necessidades altas de manter suas a
 ### ![business](https://user-images.githubusercontent.com/5865711/82335483-c8823080-99bf-11ea-9175-599f0bce1285.png) Quais os objetivos do Pentest? 
 
 ![lista-para que-pentest](https://user-images.githubusercontent.com/5865711/79673295-e9801780-81ae-11ea-917b-8c8a20029b0b.png)
+
+...
