@@ -16,10 +16,10 @@ Esta é uma sequência dos estudos do treinamento de Advanced Penetration Test q
 
 A príncipio é necessário entender o que é "PENTEST" e qual a importância dos serviços ao qual se destina a extrema importância para as corporações que precisam manter seus dados os quais são sensíveis fora do alcance de pessoas sem autorização de acessá-las. Então é um serviço o qual é imprescindível a legalidade à cima de tudo.  
 
-As grandes e pequenas organizações possuem necessidades altas de manter suas aplicaçõees de dentro da empresa que estão acessivéis e/ou online a rede mundial de computadores e portanto visíveis ou de alguma forma expostas. Juntamente com isso surgiu a necessidade da utilização de serviços que simulacem ataques hasckers para teste de Vulnerabilidade a fim de analisá-las e corrigi-las. Essa demanda de serviços está diretamente ligado a área da Segurança da Informação, onde essas corporações e empresas contratam tais profissionais, mais conhecidos como hackers com o fim único de aplicação de metódos de testes com objetivo de encontrar ou não falhas em seus sistemas, serviços, aplicações web e redes internas por conseguinte analisando e documentando e apresentando a mesma a parte cooporativa da empresa para corrigir os erros e brechas de segurança. 
+As grandes e pequenas organizações possuem necessidades altas de manter suas aplicaçõees internas as quais estãp constantemente acessivéis e muitas vezes disponíveis para a internet (rede mundial de computadores) e portanto visíveis e de alguma maneira também estão expostas. Juntamente com isso surgiu a necessidade da utilização de serviços que simulacem os ataques hackers com a finalidade de encontrar e analisar possíveis vulnerabilidade. Essa demanda de serviços está diretamente ligado a área da (Segurança da Informação) e que corporações e empresas contratam tais profissionais, mais conhecidos como hackers (especialistas) cuja finalidade é a aplicaçãp de metódos de auditoria com objetivo de encontrar possíveis falhas em seus sistemas, serviços, aplicações web e redes internas. Por conseguinte o papel do analista de cyber segurança é analisar e documentar apresentando à corporação para posteriores correções dos erros ou brechas de segurança. 
 
 
-### Hackers não são Crackers
+### Hackers != Crackers
 
 ### ![business](https://user-images.githubusercontent.com/5865711/82335483-c8823080-99bf-11ea-9175-599f0bce1285.png) Quais os objetivos do Pentest? 
 
