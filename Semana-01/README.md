@@ -37,9 +37,26 @@ Neste tipo de ataque a corporação sabe que será atacada e também sabe quais 
 ### Double Gray Box
 Neste tipo de ataque a corporação sabe que será atacada no entanto não tem conhecimento de quais testes serão executados e o auditor detém de conhecimento parcial da empresa.
 
-
 ### Tandem
 Neste tipo de ataque a corporação ou alvo sabe que será atacada e tem conhecimento de quais testes serão executados, e o auditor detém de total conhecimento da empresa. Este tipo de ataque também é conhecido como "caixa de cristal".
 
 ### Reversal
 Neste tipo de ataque a corporação ou alvo não sabe que será atacada e também não tem conhecimento de quais testes serão executados.O auditor detém de total conhecimento da corporação. Este é um tipo de ataque ideal para implementar testes de capacidade de reposta e como está o time de ação do time de resposta a incidentes.
+
+A visão do pentester é diferente do cliente e precisa ser seguido meticulosamente.
+
+### Na sua visão
+1.  Encontrar um possível cliente
+2.  Estudar o ramo de atividade do cliente
+3.  Conseguir uma reunião comercial
+4.  Ouvir as necessidades do cliente
+5.  Elaborar a proposta de acordo com o ambiente do cliente
+6.  Solicitar ao cliente um mapa de sua rede, sistemas operacionais e conexões
+7.  Montar um projeto de acordo com o ambiente e a necessidade do cliente
+8.  Enviar as propostas técnicas e comerciais
+9.  Cobrar o cliente caso o mesmo não retorne em 72h
+10. Em caso de aprovação, preparar as ferramentas adequadas para o projeto
+11. Preparar junto com o cliente a linha do tempo e segui-la à risca
+12. Apresentar relatório final
+
+
