@@ -59,4 +59,33 @@ A visão do pentester é diferente do cliente e precisa ser seguido meticulosame
 11. Preparar junto com o cliente a linha do tempo e segui-la à risca
 12. Apresentar relatório final
 
+## Processos de um Pentest
 
+Para iniciarmos o serviço de Pentest, devemos efeturar três processos obrigatórios:
+1. Efetuar  o processo de varredura
+    a) Realizar scans de sistemas operacionais
+    b) Identificar serviços e suas verções
+    c) Identificar redes e Ips
+    d) Procurar por arquivos desprotegidos
+
+2. Identificar e enumerar as vulnerabilidades
+    a) Procurar por exploits
+    b) Verificar portas abertas de forma insegura
+    c) Procurar por serviços publicados de forma insegura
+    d) Procurar por senhas fracas
+    e) Procurar por erros de configuração e programação
+
+3. Efetuar a exploração e documenta-las
+    a) Explorar falhas encontradas
+    b) Escalar privilégios
+    c) Documentar acessos indevidos
+    d) Efetuar Bypass de sistemas de proteçãp
+    e) Enumerar e documentar falhas econtradas
+    
+## Relatório Linha do Tempo
+
+É onde você descreve o fará e o que já fez. Siga rigorosamente esta linha do  tempo para evitar processos ou problemas a você ou ao seu cliente.
+Não existe um modelo especifíco, pois, cada projeto deve seguir um modelo diferenciado.
+O importante é que no seu relatório de linha do tempo, tenha o que transbordo, ou seja, são algumas horas adicionais que serão usadas caso você tenha problemas ao decorrer das provisões anteriores. 
+
+Esse transbordo não poderá altrapassar 20% das horas do projeto.  
