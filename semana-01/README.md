@@ -67,7 +67,7 @@ hacker
 É importante seguir seus princípios, porém, devemos lembrar que não podemos em
 hipótese alguma infringir as regras de seus clientes.
 
-### Os temas das Ética Hacker são:
+### Os temas da Ética Hacker são:
 - Compartilhamento
 - Abertura
 - Descentralização
@@ -75,12 +75,12 @@ hipótese alguma infringir as regras de seus clientes.
 - Melhoria do mundo
 
 ### Introdução ao Pentest
-    Processos de um Pentest
-    Relatório Linha do Tempo
-    Entendendo o seu cliente
-    Limites de seu cliente
-    Elaborando proposta Técnica
-    Elaborando proposta Comercial
+- Processos de um Pentest
+- Relatório Linha do Tempo
+- Entendendo o seu cliente
+- Limites de seu cliente
+- Elaborando proposta Técnica
+- Elaborando proposta Comercial
 
 ## Processos de um Pentest
 
@@ -113,4 +113,4 @@ O importante é que no seu relatório de linha do tempo, tenha o que transbordo,
 
 Esse transbordo não poderá altrapassar 20% das horas do projeto.  
 
-!(Modelo básico de Relatório de Linha do tempo)[https://github.com/alexandroabadebr/eSecurity-Training/assets/5865711/fa700c5b-1523-47cf-869c-d3f51cd64a02]
+![Screenshot from 2023-09-22 12-37-32](https://github.com/alexandroabadebr/eSecurity-Training/assets/5865711/57dd76a9-2a33-48fc-b4c8-253c745e061c)
