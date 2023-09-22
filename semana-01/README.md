@@ -89,3 +89,12 @@ Não existe um modelo especifíco, pois, cada projeto deve seguir um modelo dife
 O importante é que no seu relatório de linha do tempo, tenha o que transbordo, ou seja, são algumas horas adicionais que serão usadas caso você tenha problemas ao decorrer das provisões anteriores. 
 
 Esse transbordo não poderá altrapassar 20% das horas do projeto.  
+
+## Introdução ao Pentest 2
+
+- [x] Processos de um Pentest
+- [ ] Relatório Linha do Tempo
+- [ ] Entendendo o seu cliente
+- [ ] Limites de seu cliente
+- [ ] Elaborando proposta Técnica
+- [ ] Elaborando proposta Comercial
