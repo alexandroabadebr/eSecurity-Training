@@ -60,7 +60,6 @@ A visão do pentester é diferente do cliente e precisa ser seguido meticulosame
 12. Apresentar relatório final
 
 ## Ética Hacker
-
 Ética Hacker é o termo que descreve os valores morais e filosóficos na comunidade
 hacker
 
@@ -83,7 +82,6 @@ hipótese alguma infringir as regras de seus clientes.
 - Elaborando proposta Comercial
 
 ## Processos de um Pentest
-
 Para iniciarmos o serviço de Pentest, devemos efeturar 3 processos obrigatórios:
 1. Efetuar  o processo de varredura
     a) Realizar scans de sistemas operacionais
@@ -106,7 +104,6 @@ Para iniciarmos o serviço de Pentest, devemos efeturar 3 processos obrigatório
     e) Enumerar e documentar falhas econtradas
 
 ## Relatório Linha do Tempo
-
 É onde você descreve o fará e o que já fez. Siga rigorosamente esta linha do  tempo para evitar processos ou problemas a você ou ao seu cliente.
 Não existe um modelo especifíco, pois, cada projeto deve seguir um modelo diferenciado.
 O importante é que no seu relatório de linha do tempo, tenha o que transbordo, ou seja, são algumas horas adicionais que serão usadas caso você tenha problemas ao decorrer das provisões anteriores. 
@@ -114,3 +111,32 @@ O importante é que no seu relatório de linha do tempo, tenha o que transbordo,
 Esse transbordo não poderá altrapassar 20% das horas do projeto.  
 
 ![Screenshot from 2023-09-22 12-37-32](https://github.com/alexandroabadebr/eSecurity-Training/assets/5865711/57dd76a9-2a33-48fc-b4c8-253c745e061c)
+
+## Entendendo o Cliente
+O objetivo da primeira reunião comercial é entender as necessidades do cliente, com isso, você deverá anotar todas as necessidades de seu cliente. Não pode ser apresentado uma proposta na primeira reunião, caso contrário, você poderá cobrar um valor irregular e poderá prejudica-lo e prejudicar seu cliente.
+
+## Os limites de seu cliente
+Seu cliente, dependendo do ramo de atividade, possui limites, ou seja, existem servidores, horários e ambientes ao qual você não poderá auditar. Após a aprovação do seu projeto, reúna-se com seu cliente e levante as seguintes
+informações:
+
+1. Quais dispositivos não podem ser auditados
+2. Quais redes não podem ser auditadas
+3. Quais dados são sensíveis à Pentesters
+4. Quais os horários de cada varredura
+
+Crie uma lista de servidores e estações que não podem ser auditados.
+É comum que ao efetuar alguma varredura, alguns serviços param de funcionar.
+
+Seu cliente deve estar ciente disso em contrato!
+
+## Elaborando Proposta Técnica
+Deve ser enviada ao Gerente técnico, administrador de redes ou Security Officer
+Deverá contar os seguintes itens:
+1. O que será auditado
+2. As ferramentas utilizadas
+3. O testes realizados (SQLi, Brute Force, Bypass antivírus, etc)
+4. Em caso do uso de OWASP, especificar quais ataques.
+5. Não enviar o valor do projeto nesta proposta!
+
+## Elaborando Proposta Comercial
+Será enviada ao Diretor da área ou ao contratante. Nele irá obter o valor do projeto, seja ele por hora, projeto ou comissão. Não deve conter conteúdo técnico neste proposta, no máximo você poderá dizer que tipo de pentest irá realizar.
