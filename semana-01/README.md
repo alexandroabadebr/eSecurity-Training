@@ -9,7 +9,7 @@
 Este é um treinamento desenvolvido para profissionais da área de TI que tem o desejo de conhecer com profundidade toda a técnica aplicada num processo de teste de intrusão.
 São técnicas focadas para a Segurança da Informação Ofensiva, onde são apresentados também todo o processo desenvolvido comercialmente, de gerencia e técnico que fazem parte do dia a dia do Profissinal de Pentest.  
 
-### ![dardo](https://user-images.githubusercontent.com/5865711/82335238-7214f200-99bf-11ea-9bb6-017dfd669654.png)  O que é Pentest 
+### ![dardo](https://user-images.githubusercontent.com/5865711/82335238-7214f200-99bf-11ea-9bb6-017dfd669654.png)  O que é um Pentest 
 Esta é uma sequência dos estudos do treinamento de Advanced Penetration Test que estou fazendo onde irei apresentar as etapas e desenvolvimento do curso com o fim de ter uma listagem do que estou aprendendo além de ter uma forma de fixar o conteúdo e desenvolver um perfil profissional concordante com a proposta do treinamento.   
 
 ![O que é Pentest](https://user-images.githubusercontent.com/5865711/79673484-8b543400-81b0-11ea-8fa0-e6c30e548bc3.png)
@@ -59,9 +59,32 @@ A visão do pentester é diferente do cliente e precisa ser seguido meticulosame
 11. Preparar junto com o cliente a linha do tempo e segui-la à risca
 12. Apresentar relatório final
 
+## Ética Hacker
+
+Ética Hacker é o termo que descreve os valores morais e filosóficos na comunidade
+hacker
+
+É importante seguir seus princípios, porém, devemos lembrar que não podemos em
+hipótese alguma infringir as regras de seus clientes.
+
+### Os temas das Ética Hacker são:
+- Compartilhamento
+- Abertura
+- Descentralização
+- Livre acesso aos computadores
+- Melhoria do mundo
+
+### Introdução ao Pentest
+    Processos de um Pentest
+    Relatório Linha do Tempo
+    Entendendo o seu cliente
+    Limites de seu cliente
+    Elaborando proposta Técnica
+    Elaborando proposta Comercial
+
 ## Processos de um Pentest
 
-Para iniciarmos o serviço de Pentest, devemos efeturar três processos obrigatórios:
+Para iniciarmos o serviço de Pentest, devemos efeturar 3 processos obrigatórios:
 1. Efetuar  o processo de varredura
     a) Realizar scans de sistemas operacionais
     b) Identificar serviços e suas verções
@@ -75,13 +98,13 @@ Para iniciarmos o serviço de Pentest, devemos efeturar três processos obrigat�
     d) Procurar por senhas fracas
     e) Procurar por erros de configuração e programação
 
-3. Efetuar a exploração e documenta-las
+3. Efetuar a exploração e documentá-las
     a) Explorar falhas encontradas
     b) Escalar privilégios
     c) Documentar acessos indevidos
     d) Efetuar Bypass de sistemas de proteçãp
     e) Enumerar e documentar falhas econtradas
-    
+
 ## Relatório Linha do Tempo
 
 É onde você descreve o fará e o que já fez. Siga rigorosamente esta linha do  tempo para evitar processos ou problemas a você ou ao seu cliente.
@@ -90,11 +113,4 @@ O importante é que no seu relatório de linha do tempo, tenha o que transbordo,
 
 Esse transbordo não poderá altrapassar 20% das horas do projeto.  
 
-## Introdução ao Pentest 2
-
-- [x] Processos de um Pentest
-- [ ] Relatório Linha do Tempo
-- [ ] Entendendo o seu cliente
-- [ ] Limites de seu cliente
-- [ ] Elaborando proposta Técnica
-- [ ] Elaborando proposta Comercial
+!(Modelo básico de Relatório de Linha do tempo)[https://github.com/alexandroabadebr/eSecurity-Training/assets/5865711/fa700c5b-1523-47cf-869c-d3f51cd64a02]
