@@ -45,7 +45,7 @@ Em resumo, o TCP é fundamental para a comunicação confiável na Internet. Ele
 
 ## Entendendo 3Way Handshake
 
-![Screenshot from 2023-10-13 17-37-09](https://github.com/alexandroabadebr/eSecurity-Training/assets/5865711/b51e33ea-d967-44a8-9206-46cf5fe7f25e)
+![Screenshot from 2023-10-13 17-24-27](https://github.com/alexandroabadebr/eSecurity-Training/assets/5865711/16d252bb-96c6-4a92-9f7d-0a320561f643)
 
 O "3-way handshake" (aperto de mão de três vias) é um procedimento usado em protocolos de comunicação da Internet para estabelecer uma conexão TCP (Transmission Control Protocol) entre dois dispositivos, geralmente um cliente e um servidor. Esse processo de três etapas é fundamental para garantir uma conexão confiável e bidirecional. Vou explicar cada etapa do 3-way handshake:
 
