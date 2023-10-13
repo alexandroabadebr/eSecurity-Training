@@ -131,3 +131,32 @@ ICMP (Internet Control Message Protocol) é um protocolo da camada de rede da su
 - ICMP é essencial para o diagnóstico de problemas de rede, ajudando a identificar falhas de conectividade, roteamento ou congestionamento.
 
 Em resumo, o ICMP é um protocolo fundamental para a comunicação e diagnóstico de rede. Ele fornece uma maneira para os dispositivos em uma rede se comunicarem sobre condições operacionais e erros, desempenhando um papel vital na operação e na solução de problemas em redes IP.
+
+## A camda OSI
+
+
+![Screenshot from 2023-10-13 18-03-30](https://github.com/alexandroabadebr/eSecurity-Training/assets/5865711/a7ac5b96-6a03-440a-b5e7-01b7ef4ddea0)
+O modelo OSI (Open Systems Interconnection) é um modelo conceitual que padroniza as funções de uma rede ou sistema de computadores em sete camadas, permitindo que diferentes sistemas de computadores se comuniquem através de uma rede. Cada camada do modelo OSI tem um papel específico e oferece serviços para as camadas acima e abaixo dela. Aqui estão as sete camadas do modelo OSI, do mais alto ao mais baixo nível:
+
+### 1. **Camada de Aplicação (Application Layer):**
+- Esta é a camada com a qual os usuários interagem diretamente. Ela fornece serviços de rede para aplicativos de software, permitindo que eles comuniquem-se com a rede. Protocolos nesta camada incluem HTTP, FTP, SMTP, e POP3.
+
+### 2. **Camada de Apresentação (Presentation Layer):**
+- A camada de apresentação é responsável pela tradução, compressão e criptografia dos dados. Ela garante que a informação seja compreendida pelo receptor. Também é responsável por formatos de dados e codificação, como o SSL/TLS para segurança.
+
+### 3. **Camada de Sessão (Session Layer):**
+- Esta camada estabelece, mantém e finaliza sessões entre aplicativos em diferentes dispositivos. Ela gerencia o estabelecimento, manutenção e término de conexões, garantindo que os dados sejam entregues corretamente.
+
+### 4. **Camada de Transporte (Transport Layer):**
+- A camada de transporte é responsável pela entrega de dados de forma confiável e ordenada, além de controlar o fluxo de dados. Ela também lida com correção de erros e retransmissão de pacotes perdidos. Protocolos comuns nesta camada incluem TCP (Transmission Control Protocol) e UDP (User Datagram Protocol).
+
+### 5. **Camada de Rede (Network Layer):**
+- A camada de rede é responsável pelo roteamento dos dados através da rede. Ela lida com o encaminhamento dos pacotes de origem para destino, independente da topologia da rede. O protocolo IP (Internet Protocol) opera nesta camada.
+
+### 6. **Camada de Enlace de Dados (Data Link Layer):**
+- Esta camada é responsável pela comunicação entre dispositivos na mesma rede local. Ela lida com o acesso ao meio físico e a detecção de erros, garantindo que os pacotes sejam entregues apenas aos dispositivos de destino corretos. Protocolos nesta camada incluem Ethernet, Wi-Fi e PPP.
+
+### 7. **Camada Física (Physical Layer):**
+- A camada física lida com a transmissão e recepção de dados sobre um meio físico, como cabos de cobre, fibra óptica ou ondas de rádio. Ela define as características elétricas, mecânicas e funcionais do meio de transmissão.
+
+O modelo OSI é útil para entender como diferentes partes de uma rede interagem entre si, facilitando o desenvolvimento, implementação e solução de problemas em redes de computadores. Cada camada tem uma função específica e independente, mas trabalha em conjunto para garantir a comunicação eficaz dos dados através de uma rede.
