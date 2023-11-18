@@ -101,3 +101,17 @@ Buscando câmeras disponíveis na internet:
 
 Buscando por arquivos de VPN
 > !HOST=*.* intext:enc_UserPassword=* ext:pcf
+
+## Maltego
+
++ Varredura passiva com Maltego
+    - O que é o Maltego
+    - Tipos de licenças
+    - Maltego vs Casefile
+    - Definições Transforms x TDS
+    - Edição Community vs Comercial
+    - Colocando em Prática
+        - Identificando DNS Servers
+        - Identificando E-mails
+        - Identificando MX Servers
+        - Identificando IPs
