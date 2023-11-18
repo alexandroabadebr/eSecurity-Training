@@ -1,5 +1,6 @@
 <h1 align="center"> Google Hacking</h1>
 
+
 Verreduras
 
 Há 3 tipos de varreduras que podemos utilizar em nosso ambiente para detectar possíveis ataques.
