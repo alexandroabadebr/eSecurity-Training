@@ -102,7 +102,7 @@ Buscando câmeras disponíveis na internet:
 Buscando por arquivos de VPN
 > !HOST=*.* intext:enc_UserPassword=* ext:pcf
 
-## Maltego
+## Apresentação: Varredura com Maltego
 
 + Varredura passiva com Maltego
     - O que é o Maltego
