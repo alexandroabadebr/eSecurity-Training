@@ -10,6 +10,7 @@ Este é um treinamento desenvolvido para profissionais da área de TI que tem o 
 São técnicas focadas para a Segurança da Informação Ofensiva, onde são apresentados também todo o processo desenvolvido comercialmente, de gerencia e técnico que fazem parte do dia a dia do Profissinal de Pentest.  
 
 ### ![dardo](https://user-images.githubusercontent.com/5865711/82335238-7214f200-99bf-11ea-9bb6-017dfd669654.png)  O que é um Pentest 
+
 Esta é uma sequência dos estudos do treinamento de Advanced Penetration Test que estou fazendo onde irei apresentar as etapas e desenvolvimento do curso com o fim de ter uma listagem do que estou aprendendo além de ter uma forma de fixar o conteúdo e desenvolver um perfil profissional concordante com a proposta do treinamento.   
 
 ![O que é Pentest](https://user-images.githubusercontent.com/5865711/79673484-8b543400-81b0-11ea-8fa0-e6c30e548bc3.png)
@@ -26,26 +27,33 @@ As grandes e pequenas organizações possuem necessidades altas de manter suas a
 ## Tipos de Pentest
 
 ### Blind (BlackBox)
+
 Neste tipo de ataque a contratante (empresa) tem conhecimento que será atacada de alguma maneira e o que será explorado durante contudo o auditor não detém de nenhuma informação sobre o alvo.
 
 ### Double Blind (Double BlackBox)
+
 Neste tipo de ataque a contratante (empresa) não tem conhecimento que será atacada e muito menos o que será explorado. O auditor também não tem nenhum tipo de informação sobre a corporação.
 
 ### Gray Box
+
 Neste tipo de ataque a corporação sabe que será atacada e também sabe quais testes serão realizados e o auditor detém de conhecimento parcial da empresa. Esse é o tipo de pentest mais realista e que mais se aproxima de um ambiente e ataque realista.
 
 ### Double Gray Box
+
 Neste tipo de ataque a corporação sabe que será atacada no entanto não tem conhecimento de quais testes serão executados e o auditor detém de conhecimento parcial da empresa.
 
 ### Tandem
+
 Neste tipo de ataque a corporação ou alvo sabe que será atacada e tem conhecimento de quais testes serão executados, e o auditor detém de total conhecimento da empresa. Este tipo de ataque também é conhecido como "caixa de cristal".
 
 ### Reversal
+
 Neste tipo de ataque a corporação ou alvo não sabe que será atacada e também não tem conhecimento de quais testes serão executados.O auditor detém de total conhecimento da corporação. Este é um tipo de ataque ideal para implementar testes de capacidade de reposta e como está o time de ação do time de resposta a incidentes.
 
 A visão do pentester é diferente do cliente e precisa ser seguido meticulosamente.
 
-### Na sua visão
+### Na sua visão:
+
 1.  Encontrar um possível cliente
 2.  Estudar o ramo de atividade do cliente
 3.  Conseguir uma reunião comercial
@@ -60,6 +68,7 @@ A visão do pentester é diferente do cliente e precisa ser seguido meticulosame
 12. Apresentar relatório final
 
 ## Ética Hacker
+
 Ética Hacker é o termo que descreve os valores morais e filosóficos na comunidade
 hacker
 
@@ -67,6 +76,7 @@ hacker
 hipótese alguma infringir as regras de seus clientes.
 
 ### Os temas da Ética Hacker são:
+
 - Compartilhamento
 - Abertura
 - Descentralização
@@ -74,6 +84,7 @@ hipótese alguma infringir as regras de seus clientes.
 - Melhoria do mundo
 
 ### Introdução ao Pentest
+
 - Processos de um Pentest
 - Relatório Linha do Tempo
 - Entendendo o seu cliente
@@ -82,6 +93,7 @@ hipótese alguma infringir as regras de seus clientes.
 - Elaborando proposta Comercial
 
 ## Processos de um Pentest
+
 Para iniciarmos o serviço de Pentest, devemos efeturar 3 processos obrigatórios:
 1. Efetuar  o processo de varredura
     a) Realizar scans de sistemas operacionais
@@ -104,6 +116,7 @@ Para iniciarmos o serviço de Pentest, devemos efeturar 3 processos obrigatório
     e) Enumerar e documentar falhas econtradas
 
 ## Relatório Linha do Tempo
+
 É onde você descreve o fará e o que já fez. Siga rigorosamente esta linha do  tempo para evitar processos ou problemas a você ou ao seu cliente.
 Não existe um modelo especifíco, pois, cada projeto deve seguir um modelo diferenciado.
 O importante é que no seu relatório de linha do tempo, tenha o que transbordo, ou seja, são algumas horas adicionais que serão usadas caso você tenha problemas ao decorrer das provisões anteriores. 
@@ -113,9 +126,11 @@ Esse transbordo não poderá altrapassar 20% das horas do projeto.
 ![Screenshot from 2023-09-22 12-37-32](https://github.com/alexandroabadebr/eSecurity-Training/assets/5865711/57dd76a9-2a33-48fc-b4c8-253c745e061c)
 
 ## Entendendo o Cliente
+
 O objetivo da primeira reunião comercial é entender as necessidades do cliente, com isso, você deverá anotar todas as necessidades de seu cliente. Não pode ser apresentado uma proposta na primeira reunião, caso contrário, você poderá cobrar um valor irregular e poderá prejudica-lo e prejudicar seu cliente.
 
 ## Os limites de seu cliente
+
 Seu cliente, dependendo do ramo de atividade, possui limites, ou seja, existem servidores, horários e ambientes ao qual você não poderá auditar. Após a aprovação do seu projeto, reúna-se com seu cliente e levante as seguintes
 informações:
 
@@ -130,6 +145,7 @@ Crie uma lista de servidores e estações que não podem ser auditados.
 Seu cliente deve estar ciente disso em contrato!
 
 ## Elaborando Proposta Técnica
+
 Deve ser enviada ao Gerente técnico, administrador de redes ou Security Officer
 Deverá contar os seguintes itens:
 1. O que será auditado
@@ -139,4 +155,5 @@ Deverá contar os seguintes itens:
 5. Não enviar o valor do projeto nesta proposta!
 
 ## Elaborando Proposta Comercial
+
 Será enviada ao Diretor da área ou ao contratante. Nele irá obter o valor do projeto, seja ele por hora, projeto ou comissão. Não deve conter conteúdo técnico neste proposta, no máximo você poderá dizer que tipo de pentest irá realizar.
